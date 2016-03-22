@@ -1,0 +1,28 @@
+name: Triconium
+favicon: null
+layout_spectrum: 0.043654987355694175
+typography_spectrum: 0.8758756113238633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9436035263352096
+  lightness: 0.4123407800216228
+  saturation: 0.7183712103869766
+  rhythmicContrast: 0.2980418913066387
+purpose: []
